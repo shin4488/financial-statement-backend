@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> **このリポジトリは [financial-statement](https://github.com/shin4488/financial-statement)（monorepo）へ統合済み（2026-08）。**
+> 全履歴ごと `application/backend` ディレクトリとして移行し、以後の開発はmonorepo側で行う。本リポジトリはアーカイブとして凍結。
+
 # investee バックエンド（Rails API）
 
 上場企業の有価証券報告書（EDINET）を取り込み、財務3表チャートをGraphQLで返すAPIサーバ。
